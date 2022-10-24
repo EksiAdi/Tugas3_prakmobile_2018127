@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pertemuan3_view</string>
+    <string name="deskription_menu">Makanan Cenil yang sangat lezat dipadu dengan paduan parutan kelapa</string>
+    <string name="ingredients">Resep</string>
+    <string name="Resep">Cenil dan Parutan kelapa</string>
+    <string name="price">Harga</string>
+    <string name="Harga_Cenil">100000</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
